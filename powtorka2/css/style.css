@@ -11,3 +11,7 @@ body {
     height: 100px;
     background-color: mediumvioletred;
 }
+
+#anim.new_background {
+    background-color: blue;
+}
