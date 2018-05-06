@@ -1,6 +1,6 @@
 'use strict';
 var btn = document.getElementById("oblicz");
-btn.addEventListener("click", function(e){
+btn.addEventListener("click", function(e) {
     e.preventDefault();
     oblicz("output");
 });
